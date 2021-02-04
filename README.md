@@ -7,7 +7,7 @@ Starting in development at 12 years old, worked with journalism for six. Studied
 ![Tiago Boeing github stats](https://github-readme-stats.vercel.app/api?username=tiagoboeing&include_all_commits=true&count_private=true&theme=tokyonight&show_icons=true&width=200)
 
 
-<span style="display: hidden"> 
+<div style="display: hidden">
   [![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/tiagoboeing)](https://github.com/tiagoboeing)
 </div>
 
