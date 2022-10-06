@@ -24,7 +24,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: jmrsnt
+          user: tiagoboeing
           template: classic
           base: header, metadata
           config_timezone: America/Sao_Paulo
