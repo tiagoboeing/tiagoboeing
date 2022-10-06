@@ -29,6 +29,10 @@ jobs:
           base: header, activity, community, repositories, metadata
           commits_authoring: tiagoboeing,contato@tiagoboeing.com,tiagoboeing11@gmail.com
           config_timezone: America/Sao_Paulo
+          plugin_topics: yes
+          plugin_topics_limit: 15
+          plugin_topics_mode: icons
+          plugin_topics_sort: stars
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_achievements_secrets: yes
@@ -46,9 +50,4 @@ jobs:
           plugin_notable: yes
           plugin_notable_from: organization
           plugin_notable_types: commit
-          plugin_support: yes
-          plugin_topics: yes
-          plugin_topics_limit: 15
-          plugin_topics_mode: icons
-          plugin_topics_sort: stars
           repositories_forks: yes
