@@ -3,9 +3,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 786.6 kB Used in GitHub's Storage 
+> 📦 786.7 kB Used in GitHub's Storage 
  > 
-> 🏆 1,246 Contributions in the Year 2023
+> 🏆 1,247 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -13,19 +13,6 @@
  > 
 > 🔑 51 Private Repositories 
  > 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-Docker                   42 mins             ███████████░░░░░░░░░░░░░░   44.58 % 
-TypeScript               25 mins             ███████░░░░░░░░░░░░░░░░░░   27.11 % 
-HTML                     10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
-JSON                     10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
-YAML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -39,6 +26,6 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/07/2023 22:01:17 UTC
+ Last Updated on 18/07/2023 22:08:39 UTC
 <!--END_SECTION:waka-->
 
