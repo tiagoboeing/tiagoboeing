@@ -1,6 +1,3 @@
-<img src="github-metrics.svg">
-
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C152%20hrs%2046%20mins-blue)
 
@@ -65,3 +62,4 @@ Shell                    1 repo              █░░░░░░░░░░�
 
  Last Updated on 18/07/2023 21:36:14 UTC
 <!--END_SECTION:waka-->
+
