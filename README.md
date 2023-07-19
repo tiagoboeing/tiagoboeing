@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C152%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C151%20hrs%206%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -9,7 +9,7 @@
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 48 Public Repositories 
+> 📜 46 Public Repositories 
  > 
 > 🔑 51 Private Repositories 
  > 
@@ -26,6 +26,6 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/07/2023 22:16:03 UTC
+ Last Updated on 19/07/2023 18:33:40 UTC
 <!--END_SECTION:waka-->
 
