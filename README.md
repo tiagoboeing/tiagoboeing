@@ -1,17 +1,17 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C975%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C973%20hrs%2046%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 865.3 kB Used in GitHub's Storage 
+> 📦 866.5 kB Used in GitHub's Storage 
  > 
-> 🏆 53 Contributions in the Year 2024
+> 🏆 64 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 46 Public Repositories 
  > 
-> 🔑 55 Private Repositories 
+> 🔑 56 Private Repositories 
  > 
 **I Mostly Code in Java** 
 
@@ -26,6 +26,6 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/01/2024 18:33:22 UTC
+ Last Updated on 31/01/2024 18:33:28 UTC
 <!--END_SECTION:waka-->
 
