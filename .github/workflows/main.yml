@@ -16,7 +16,7 @@ jobs:
           # Options
           user: tiagoboeing
           template: classic
-          base: header, community, repositories
+          base: community, activity, repositories
           commits_authoring: tiagoboeing,contato@tiagoboeing.com,tiagoboeing11@gmail.com
           config_timezone: America/Sao_Paulo
           plugin_wakatime: true
