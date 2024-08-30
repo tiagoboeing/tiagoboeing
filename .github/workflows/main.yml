@@ -22,5 +22,5 @@ jobs:
           config_timezone: America/Sao_Paulo
           plugin_wakatime: true
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
-          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          plugin_wakatime_sections: time, languages, languages-graphs, editors, os
           plugin_wakatime_days: 365
